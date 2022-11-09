@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://imgs.search.brave.com/zlOBc3KL-3lurlYhtRTB3N-S3V89AFMeDl3fwznLMIE/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMud2ViaWNvbnNw/bmcuY29tL3VwbG9h/ZHMvMjAxNy8wMS9Q/cm9ncmFtbWluZy1D/b2RpbmctSWNvbi0z/MDB4MzAwLnBuZw" title="Programming Languages" alt="Programming Languages" width="35" height="35"/> **Programming Languages**
+### <img src="https://cdn.discordapp.com/emojis/886614002199838721.gif?size=28&quality=lossless" title="Programming Languages" alt="Programming Languages" width="35" height="35"/> **Programming Languages**
 
 <p>
 
