@@ -2,13 +2,13 @@
 
 - <img src="https://cdn.discordapp.com/emojis/1056046045710258176.webp?size=24&quality=lossless"> **Name** : `Phone`
 
-- 🍊 **Age** : `15-17`
+- <img src="https://cdn.discordapp.com/emojis/1056046038449926275.webp?size=24&quality=lossless"> **Age** : `15-17`
 
-- 🍋 **Birthday** : `24 September 200?.`
+- <img src="https://cdn.discordapp.com/emojis/1056046164753010749.webp?size=24&quality=lossless"> **Birthday** : `24 September 200?.`
 
-- 🍐 **Aptitude** : `Coding` or `Math`
+- <img src="https://cdn.discordapp.com/emojis/1056046034226270318.webp?size=28&quality=lossless"> **Aptitude** : `Coding` or `Math`
 
-- 🍇 **Games** : `Minecraft`,`Arena of Valor`
+- <img src="https://cdn.discordapp.com/emojis/1056046043424370841.webp?size=28&quality=lossless"> **Games** : `Minecraft`,`Arena of Valor`
 
 ---
 
