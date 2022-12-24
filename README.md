@@ -1,6 +1,6 @@
 ### &nbsp;**WHO AM I 🎭**
 
-### <img src="[https://cdn.discordapp.com/emojis/886614011028832327.gif?size=28&quality=lossless](https://cdn.discordapp.com/emojis/1049260097269932062.webp?size=24&quality=lossless)" title="Informations" alt="Informations" width="35" height="35"/>&nbsp; &nbsp;Informations :
+### <img src="https://cdn.discordapp.com/emojis/1049260097269932062.webp?size=24&quality=lossless" title="Informations" alt="Informations" width="35" height="35"/>&nbsp; &nbsp;Informations :
 
 - 🍎 **Name** : `Phone`
 
