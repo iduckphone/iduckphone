@@ -1,6 +1,6 @@
 ### <img src="https://cdn3.emoji.gg/emojis/6472-mc.gif" title="Informations" alt="Informations" width="35" height="35"/>Informations :
 
-- 🍎 **Name** : `Phone`
+- <img src="https://cdn.discordapp.com/emojis/1056046045710258176.webp?size=24&quality=lossless"> **Name** : `Phone`
 
 - 🍊 **Age** : `15-17`
 
