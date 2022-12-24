@@ -23,4 +23,4 @@
 
 ---
 
-### Performance/community :
+### <img src="https://cdn.discordapp.com/emojis/1049260138021793812.gif?size=28&quality=lossless"> Performance/community :
