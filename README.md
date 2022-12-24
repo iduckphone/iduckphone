@@ -1,4 +1,4 @@
-### <img src="https://cdn.discordapp.com/emojis/1049259979389026314.gif?size=28&quality=lossless" title="Informations" alt="Informations" width="35" height="35"/>Informations :
+### <img src="https://cdn.discordapp.com/emojis/1049259979389026314.gif?size=28&quality=lossless" title="Informations" alt="Informations"/>Informations :
 
 - <img src="https://cdn.discordapp.com/emojis/1056046045710258176.webp?size=24&quality=lossless"> **Name** : `Phone`
 
