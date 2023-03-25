@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Phone and I want to be very good at coding. My goal is to write code in 9 languages: TypeScript, JavaScript, Python, Java, PHP, Go, HTML/CSS, C.
+As a programmer, my goal is to become proficient in 9 different programming languages, including TypeScript, JavaScript, Python, Java, PHP, Go, HTML/CSS, and C. I am dedicated to continuously improving my technical skills through rigorous study, practice, and seeking out new challenges. I am passionate about writing efficient and elegant code that solves real-world problems and contributes to innovative projects. By mastering multiple programming languages, I hope to expand my knowledge and capabilities, and become a valuable asset to any team or project.
 
 
 ## 🌐 Socials:
