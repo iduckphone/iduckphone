@@ -43,7 +43,7 @@ Here are some of the notable projects I've worked on:
 
 If you're interested in having a conversation or collaborating with me, feel free to reach out via:
 
-- Email: email@example.com
+- Email: [fonparinya24@gmail.com](fonparinya24@gmail.com)
 - LinkedIn: [Your Name on LinkedIn](Link to LinkedIn Profile)
 - Twitter: [@YourTwitterHandle](Link to Twitter Profile)
 
