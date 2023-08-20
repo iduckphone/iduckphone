@@ -1,14 +1,57 @@
-# 💫 About Me:
-As a programmer, my goal is to become proficient in 9 different programming languages, including TypeScript, JavaScript, Python, Java, PHP, Go, HTML/CSS, and C. I am dedicated to continuously improving my technical skills through rigorous study, practice, and seeking out new challenges. I am passionate about writing efficient and elegant code that solves real-world problems and contributes to innovative projects. By mastering multiple programming languages, I hope to expand my knowledge and capabilities, and become a valuable asset to any team or project.
+## MY GITHUB
 
+Hello there! Welcome to my GitHub profile. This is where I share stories and showcase my web development journey. I'm a web developer passionate about crafting outstanding online experiences.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RtEKe5kZkT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phxm.phxne) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCocD1zoatTqv197-3ZdUoZw) 
+## About Me
+
+Hello! My name is [Your Name], or you can call me Phone. I'm a web developer with expertise in building and developing efficient and user-friendly web applications. I'm enthusiastic about using modern and standard technologies in web development.
+
+## Skills and Expertise
+
+- HTML, CSS, and JavaScript: I have a solid understanding of the fundamentals of web development using HTML, CSS, and JavaScript to create captivating and visually appealing user experiences.
+- Web App Responsiveness: I'm capable of designing and developing web applications that adapt seamlessly to various device sizes.
+- Tools and Technologies: I utilize popular tools and technologies in development, such as React, Vue.js, Bootstrap, and more.
+
+## Languages and tools Skills
+
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+<!-- ## Portfolio
+
+Here are some of the notable projects I've worked on:
+
+1. [Project Name](Link to Project)
+   - A brief description of the project.
+   - My main contributions: Developed feature X, Managed Y.
+
+2. [Another Important Project](Link to Project)
+   - More details about this project.
+   - What I did in this project: X, Y, Z -->
+
+## Get in Touch
+
+If you're interested in having a conversation or collaborating with me, feel free to reach out via:
+
+- Email: email@example.com
+- LinkedIn: [Your Name on LinkedIn](Link to LinkedIn Profile)
+- Twitter: [@YourTwitterHandle](Link to Twitter Profile)
+
+## Thanks for Visiting!
+
+Thank you for stopping by my GitHub profile. I hope you find interesting information and maybe consider it as a starting point for potential future collaborations.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrMaxing&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=MrMaxing&icon=0&color=10"></div>
