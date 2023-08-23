@@ -49,6 +49,3 @@ If you're interested in having a conversation or collaborating with me, feel fre
 ## Thanks for Visiting!
 
 Thank you for stopping by my GitHub profile. I hope you find interesting information and maybe consider it as a starting point for potential future collaborations.
-
----
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=MrMaxing&icon=0&color=10"></div>
