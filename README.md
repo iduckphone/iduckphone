@@ -4,7 +4,7 @@ Hello there! Welcome to my GitHub profile. This is where I share stories and sho
 
 ## About Me
 
-Hello! My name is [Your Name], or you can call me Phone. I'm a web developer with expertise in building and developing efficient and user-friendly web applications. I'm enthusiastic about using modern and standard technologies in web development.
+Hello! My name is Phone, or you can call me Phone. I'm a web developer with expertise in building and developing efficient and user-friendly web applications. I'm enthusiastic about using modern and standard technologies in web development.
 
 ## Skills and Expertise
 
