@@ -32,7 +32,7 @@ Here are some of the notable projects I've worked on:
 
 If you're interested in having a conversation or collaborating with me, feel free to reach out via:
 
-- **Email**: [fonparinya24@gmail.com](mailto:fonparinya24@gmail.com)
+- **Email**: [parinya24dev@gmail.com](mailto:parinya24dev@gmail.com)
 - **Discord**: [Mr Maxing#3714](https://discord.com/users/769408182623141918)
 
 ## Thanks for Visiting!
