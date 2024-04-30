@@ -1,6 +1,8 @@
 # My Github
 
-<img src="https://raw.githubusercontent.com/ParinyaPersonal/ParinyaPersonal/main/file.png">
+<center>
+   <img src="https://raw.githubusercontent.com/ParinyaPersonal/ParinyaPersonal/main/file.png">
+</center>
 
 Hello there! Welcome to my GitHub profile. This is where I share stories and showcase my web development journey. I'm a web developer passionate about crafting outstanding online experiences.
 
