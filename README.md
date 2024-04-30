@@ -10,7 +10,7 @@ Hello! My name is Phone, or you can call me Phone. I'm a web developer with expe
 
 - HTML, CSS, and JavaScript: I have a solid understanding of the fundamentals of web development using HTML, CSS, and JavaScript to create captivating and visually appealing user experiences.
 - Web App Responsiveness: I'm capable of designing and developing web applications that adapt seamlessly to various device sizes.
-- Tools and Technologies: I utilize popular tools and technologies in development, such as React, Vue.js, Bootstrap, and more.
+- Tools and Technologies: I utilize popular tools and technologies in development, such as React, Tailwind, and more.
 
 ## Languages and tools Skills
 
