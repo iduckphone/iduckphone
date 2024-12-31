@@ -8,45 +8,41 @@ I'm a versatile developer who thrives on building end-to-end solutions. With exp
 
 ## Technical Expertise
 
-I have a strong foundation in the following technologies:
+### Languages & Tools
+<!-- PROGRAMMING LANGUAGES -->
+> `C` `C++` `Rust` `Go` `HTML5` `JavaScript` `TypeScript` `PHP` `Python` `Ruby` `Dart` `PowerShell` `Markdown`
 
-### Programming Languages
-```text
-System      : C, C++, Rust, Go
-Web         : HTML5, JavaScript, TypeScript, PHP
-Scripting   : Python, Ruby, Dart
-Shell       : PowerShell, Windows Terminal
-Markup      : Markdown
-```
+### Frontend Development 
+<!-- FRONTEND TECHNOLOGIES -->
+> **Main:**
+`React` `Next.js` `TailwindCSS` `Bootstrap` `Shadcn UI`
 
-### Frontend Development
-```text
-Frameworks  : React, Next.js, TailwindCSS, Bootstrap
-Libraries   : jQuery, React Router, React Hook Form
-Build Tools : Vite, NPM
-```
+> **Ecosystem:**
+`jQuery` `React Router` `React Hook Form` `Vite` `NPM`
 
-### Backend Development
-```text
-Runtime     : Node.js, Deno.js, Bun
-Frameworks  : Express.js, EJS
-Auth        : JWT (JSON Web Tokens)
-```
+### Backend & Infrastructure
+<!-- BACKEND TECHNOLOGIES -->
+> **Runtime & Frameworks:**
+`Node.js` `Deno.js` `Bun` `Express.js` `EJS`
 
-### Database & Cloud
-```text
-SQL         : PostgreSQL, MySQL
-NoSQL       : MongoDB
-ORM         : Prisma
-Cloud       : Firebase
-```
+> **Authentication:**
+`JWT` `Token-based Auth`
 
-### Development Tools
-```text
-Version Control : GitHub
-Design         : Figma
-Deployment     : Vercel, Render
-```
+### Database & Cloud Services
+<!-- DATABASE AND CLOUD -->
+> **Databases:**
+`PostgreSQL` `MySQL` `MongoDB`
+
+> **Tools & Services:**
+`Prisma` `Firebase` `Vercel` `Render`
+
+### Development & Design
+<!-- DEVELOPMENT TOOLS -->
+> **Version Control:**
+`Git` `GitHub`
+
+> **Design:**
+`Figma` `UI/UX Principles`
 
 ## Core Strengths
 
